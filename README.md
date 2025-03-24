@@ -5,9 +5,9 @@ Este projeto consiste no desenvolvimento da página Alura Books, seguindo a abor
 
 - HTML
 
--CSS
+- CSS
 
--Mobile First
+- Mobile First
 
 # Descrição
 
@@ -15,13 +15,13 @@ A página Alura Books apresenta uma seleção de livros recomendados pela Alura,
 
 # Aprendizados
 
--Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
+- Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
 
--Estruturação de páginas com HTML semântico.
+- Estruturação de páginas com HTML semântico.
 
--Estilização com CSS, incluindo flexbox e responsividade.
+- Estilização com CSS, incluindo flexbox e responsividade.
 
--Desenvolvimento seguindo a abordagem mobile first.
+- Desenvolvimento seguindo a abordagem mobile first.
 
 # Como visualizar o projeto
 
