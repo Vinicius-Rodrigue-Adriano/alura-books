@@ -1,4 +1,4 @@
-# alura-books
+# Alura Books
 Este projeto consiste no desenvolvimento da página Alura Books, seguindo a abordagem mobile first. O projeto foi realizado como parte da formação em Front-end da Alura, utilizando HTML e CSS.
 
 # Tecnologias utilizadas
