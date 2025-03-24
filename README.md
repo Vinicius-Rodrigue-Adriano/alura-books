@@ -3,7 +3,7 @@ Este projeto consiste no desenvolvimento da página Alura Books, seguindo a abor
 
 # Tecnologias utilizadas
 
--HTML
+- HTML
 
 -CSS
 
